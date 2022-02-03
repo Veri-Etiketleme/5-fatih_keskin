@@ -11,7 +11,3 @@ Python
         seaborn
         datetime
 
-------------------------------------
-Programming Languages:  Python
-Libraries:              NumPy - Matplotlib -> seaborn 
-Modules:                wxPython - datetime - sys,
