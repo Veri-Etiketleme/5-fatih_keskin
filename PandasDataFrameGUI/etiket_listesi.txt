@@ -1,0 +1,17 @@
+Python
+    pandas
+
+    import
+        numpy
+        wx(wxPython)
+        sys
+        matplotlib
+             FigureCanvasWxAgg
+             pyplot
+        seaborn
+        datetime
+
+------------------------------------
+Programming Languages:  Python
+Libraries:              NumPy - Matplotlib -> seaborn 
+Modules:                wxPython - datetime - sys,
