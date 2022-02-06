@@ -13,6 +13,10 @@ JSON
 Python
     numpy
         seed
+        ceil
+        ndarray
+        array
+        uint8
     tensorflow
         set_random_seed
       keras
@@ -35,7 +39,7 @@ Python
 
     pandas
     sklearn
-        sklearn.metrics
+        metrics
             confusion_matrix
         sklearn.model
             selection
@@ -50,7 +54,8 @@ Python
     
    os
     mkdir
-    path.join
+    path
+      join
    itertools
  
  print
