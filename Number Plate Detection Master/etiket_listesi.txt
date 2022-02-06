@@ -1,0 +1,36 @@
+Python
+    os
+        path
+            exists
+        remove
+    sys
+    PIL
+        Image
+    cv2
+        imread
+        resize
+        INTER_CUBIC
+    random
+        shuffle
+    pandas
+        read_csv
+    numpy
+    tensorflow
+        python
+            platform
+                gfile
+                    FastGFile
+        train
+            Feature
+            BytesList
+            FloatList
+            Int64List
+            Example
+            tfrecord
+        io
+            TFRecordWriter
+
+
+  Koşullar
+  Tanımlamalar
+    
