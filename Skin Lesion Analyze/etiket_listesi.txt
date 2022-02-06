@@ -37,9 +37,9 @@ Python
     sklearn
         metrics
             confusion_matrix
-        sklearn.model
+        model
             selection
-                train_test_split,
+                train_test_split
     matplotlib
         pyplot
             plot
