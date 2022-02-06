@@ -86,3 +86,10 @@ Python
   search
     res
   hashlib
+
+Javascript
+    jQuery
+CSS
+    import
+        fonts
+HTML
