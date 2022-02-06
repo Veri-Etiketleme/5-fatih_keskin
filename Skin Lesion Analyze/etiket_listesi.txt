@@ -9,6 +9,7 @@ Javascript
     async
     sort
     slice
+ JSON
 Python
     numpy
         seed
