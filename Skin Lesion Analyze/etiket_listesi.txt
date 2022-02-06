@@ -58,7 +58,5 @@ Python
       join
    itertools
  
- print
- len
- for
- if else
+ Koşullar
+ Döngüler
