@@ -1,0 +1,58 @@
+HTML
+CSS
+  w3
+Javascript
+    simulateClick
+    predictOnLoad
+        setTimeout
+    let
+    async
+    sort
+    slice
+Python
+    numpy
+        seed
+    tensorflow
+        set_random_seed
+      keras
+        set_random_seed
+        layers.core
+            Dense, Dropout
+        optimizers
+            Adam
+        metrics
+            categorical_crossentropy
+        preprocessing.image
+            ImageDataGenerator
+        models
+            Model
+        callbacks
+            EarlyStopping
+        backend
+        applications
+            mobilenet
+
+    pandas
+    sklearn
+        sklearn.metrics
+            confusion_matrix
+        sklearn.model
+            selection
+                train_test_split,
+    matplotlib
+        pyplot
+            plot
+            title
+            legend
+            figure
+            show
+    
+   os
+    mkdir
+    path.join
+   itertools
+ 
+ print
+ len
+ for
+ if else
