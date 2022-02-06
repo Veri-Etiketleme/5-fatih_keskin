@@ -5,13 +5,14 @@ Javascript
     simulateClick
     predictOnLoad
         setTimeout
-    let
-    async
-    sort
-    slice
+JSON
 Python
     numpy
         seed
+        ceil
+        ndarray
+        array
+        uint8
     tensorflow
         set_random_seed
       keras
@@ -33,12 +34,13 @@ Python
             mobilenet
 
     pandas
+      read_csv
     sklearn
-        sklearn.metrics
+        metrics
             confusion_matrix
-        sklearn.model
+        model
             selection
-                train_test_split,
+                train_test_split
     matplotlib
         pyplot
             plot
@@ -49,10 +51,9 @@ Python
     
    os
     mkdir
-    path.join
+    path
+      join
    itertools
  
- print
- len
- for
- if else
+ Koşullar
+ Döngüler
